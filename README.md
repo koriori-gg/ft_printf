@@ -1,11 +1,21 @@
-# ft_printf
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/koriori-gg/ft_printf?color=blue)
-![GitHub language count](https://img.shields.io/github/languages/count/koriori-gg/ft_printf?color=yellow)
-![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/koriori-gg/ft_printf)
+<h1 align="center">
+	📖 ft_printf
+</h1>
+<p align="center">
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/koriori-gg/ft_printf?color=blue">
+	<img alt="GitHub language count" src="https://img.shields.io/github/languages/count/koriori-gg/ft_printf?color=yellow">
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/koriori-gg/ft_printf">
+</p>
+<h3 align="center">
+	<a href="#%EF%B8%8F-about">About</a>
+	<span> · </span>
+	<a href="#%EF%B8%8F-usage">Usage</a>
+</h3>
 
-## About the project
+
+## 💡 About the project
 This project is about coding a printf().
-## Usage
+## 🛠️ Usage
 ### Requirements
 The function is written in C language and thus needs the gcc compiler and some standard C libraries to run.
 

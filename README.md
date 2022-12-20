@@ -1,5 +1,5 @@
 # ft_printf
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/koriori-gg/ft_printf)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/koriori-gg/ft_printf?color=blue)
 ![GitHub language count](https://img.shields.io/github/languages/count/koriori-gg/ft_printf?color=yellow)
 ![GitHub last commit (by committer)](https://img.shields.io/github/last-commit/koriori-gg/ft_printf)
 

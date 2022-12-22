@@ -6,11 +6,11 @@
 /*   By: ihashimo <maaacha.kuri05@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/11/12 17:22:56 by ihashimo          #+#    #+#             */
-/*   Updated: 2022/12/20 20:47:56 by ihashimo         ###   ########.fr       */
+/*   Updated: 2022/12/22 15:03:59 by ihashimo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_printf.h"
+#include "../include/ft_printf.h"
 
 ssize_t	ft_check_format(const char *format, int i, va_list *args)
 {
@@ -50,7 +50,7 @@ int	ft_printf(const char *format, ...)
 	while (format[i])
 	{
 		if (format[i] == '%')
-			check = ft_checkformat(format, ++i, &args);
+			check = ft_check_format(format, ++i, &args);
 		else
 			check = ft_putchar_std(format[i]);
 		if (check == -1)

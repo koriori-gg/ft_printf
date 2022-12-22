@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_tools_1.c                                       :+:      :+:    :+:   */
+/*   ft_printf_utils1.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ihashimo <maaacha.kuri05@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/08 14:52:36 by ihashimo          #+#    #+#             */
-/*   Updated: 2022/12/16 13:19:50 by ihashimo         ###   ########.fr       */
+/*   Updated: 2022/12/22 15:03:14 by ihashimo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_printf.h"
+#include "../include/ft_printf.h"
 
 size_t	ft_strlen(const char *str)
 {

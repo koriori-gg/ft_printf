@@ -1,16 +1,16 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        :::      ::::::::   */
-/*   ft_tools_2.c                                       :+:      :+:    :+:   */
+/*   ft_printf_utils2.c                                 :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
 /*   By: ihashimo <maaacha.kuri05@gmail.com>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/12/08 14:52:40 by ihashimo          #+#    #+#             */
-/*   Updated: 2022/12/16 13:21:09 by ihashimo         ###   ########.fr       */
+/*   Updated: 2022/12/22 15:03:18 by ihashimo         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "include/ft_printf.h"
+#include "../include/ft_printf.h"
 
 ssize_t	ft_utoa(unsigned long nbr, unsigned long n, char *asc)
 {
